@@ -29,7 +29,7 @@ The project involved conducting e2e testing of the "Stackinfo" website using Cyp
 ### Feedback Component
 
 - **Test Type**: Manual Testing
-- **Component**: feedback Component
+- **Component**: Feedback Component
 - **Number of Test Cases Executed**: 5
 - **Number of Test Cases Pass**: 4
 - **Number of Test Cases Fail**: 1
