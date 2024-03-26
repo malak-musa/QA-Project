@@ -64,3 +64,10 @@
 - **Comments**: 
 - **Special Notes**:
 
+## Manual Testing Report
+
+- Malak Mousa
+- Ezzeldeen Mousa
+- Ahmad Adel
+- Amjad Adely
+
