@@ -83,4 +83,8 @@ describe('Filter Component Tests', () => {
     });
   });
 
+<<<<<<< Updated upstream
 });
+=======
+});
+>>>>>>> Stashed changes
