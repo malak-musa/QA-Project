@@ -1,5 +1,8 @@
 # End-to-End JavaScript Testing with Cypress
 
+readme_content = """
+
+
 ## Manual Testing Report
 
 ### Filter Component
@@ -71,3 +74,7 @@
 - Ahmad Adel
 - Amjad Adely
 
+with open("README.md", "w") as readme_file:
+    readme_file.write(readme_content)
+
+print("README.md has been created/updated successfully.")
