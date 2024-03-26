@@ -44,11 +44,11 @@
 
 - **Test Type**: Automation Testing
 - **Component**: Filter Component
-- **Number of Test Cases Executed**: 
-- **Number of Test Cases Pass**: 
-- **Number of Test Cases Fail**: 
-- **Pass Percentage**: 
-- **Fail Percentage**: 
+- **Number of Test Cases Executed**: 4
+- **Number of Test Cases Pass**: 3
+- **Number of Test Cases Fail**: 1
+- **Pass Percentage**: 75%
+- **Fail Percentage**: 25%
 - **Comments**: 
 - **Special Notes**:
 
@@ -56,11 +56,11 @@
 
 - **Test Type**: Automation Testing
 - **Component**: Search Component
-- **Number of Test Cases Executed**: 
-- **Number of Test Cases Pass**: 
-- **Number of Test Cases Fail**: 
-- **Pass Percentage**: 
-- **Fail Percentage**: 
+- **Number of Test Cases Executed**: 3
+- **Number of Test Cases Pass**: 3
+- **Number of Test Cases Fail**: 0
+- **Pass Percentage**: 100%
+- **Fail Percentage**: 0%
 - **Comments**: 
 - **Special Notes**:
 
